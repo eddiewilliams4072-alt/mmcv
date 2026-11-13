@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# The 404 page should never be indexed on its own.
+Disallow: /404.html
+
+Sitemap: https://mmcv.vercel.app/sitemap.xml
